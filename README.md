@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0389-find-the-difference) |
 ## String Matching
 |  |
 | ------- |
@@ -69,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0496-next-greater-element-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0389-find-the-difference) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
