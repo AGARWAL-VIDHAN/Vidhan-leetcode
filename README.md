@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0496-next-greater-element-i](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
 |  |
 | ------- |
