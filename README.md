@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0383-ransom-note) |
 ## Math
 |  |
@@ -20,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
