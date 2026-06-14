@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String
 |  |
