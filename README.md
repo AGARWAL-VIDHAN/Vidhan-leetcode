@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0682-baseball-game) |
+| [0867-transpose-matrix](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,9 +113,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0682-baseball-game) |
+| [0867-transpose-matrix](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0867-transpose-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
