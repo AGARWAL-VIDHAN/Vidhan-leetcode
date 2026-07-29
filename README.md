@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0066-plus-one) |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
