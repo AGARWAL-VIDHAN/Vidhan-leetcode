@@ -164,4 +164,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0052-n-queens-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
