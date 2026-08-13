@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0075-sort-colors) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -226,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3024-type-of-triangle) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
