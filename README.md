@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0392-is-subsequence) |
 ## String
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0682-baseball-game) |
 ## Monotonic Stack
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0390-elimination-game) |
@@ -269,4 +272,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0234-palindrome-linked-list](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
