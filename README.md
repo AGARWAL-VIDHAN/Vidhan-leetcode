@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0234-palindrome-linked-list) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0876-middle-of-the-linked-list) |
