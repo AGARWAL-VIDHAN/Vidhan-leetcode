@@ -143,10 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0682-baseball-game) |
+| [2487-remove-nodes-from-linked-list](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0496-next-greater-element-i) |
+| [2487-remove-nodes-from-linked-list](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0509-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Backtracking
 |  |
 | ------- |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
