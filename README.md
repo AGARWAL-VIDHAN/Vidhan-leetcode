@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0496-next-greater-element-i](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0496-next-greater-element-i) |
 | [0566-reshape-the-matrix](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0682-baseball-game) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0390-elimination-game) |
 | [0412-fizz-buzz](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0509-fibonacci-number) |
 | [0812-largest-triangle-area](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0812-largest-triangle-area) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
