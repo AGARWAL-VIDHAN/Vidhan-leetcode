@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3701-compute-alternating-sum) |
+| [3838-weighted-word-mapping](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3838-weighted-word-mapping) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0771-jewels-and-stones) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3838-weighted-word-mapping) |
 ## String Matching
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2293-min-max-game](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2293-min-max-game) |
 | [3701-compute-alternating-sum](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3701-compute-alternating-sum) |
+| [3838-weighted-word-mapping](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Matrix
 |  |
