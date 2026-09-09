@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2293-min-max-game](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2293-min-max-game) |
+| [2942-find-words-containing-character](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2942-find-words-containing-character) |
 | [3024-type-of-triangle](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3024-type-of-triangle) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0771-jewels-and-stones) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2942-find-words-containing-character](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2942-find-words-containing-character) |
 | [3838-weighted-word-mapping](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3838-weighted-word-mapping) |
 ## String Matching
 |  |
