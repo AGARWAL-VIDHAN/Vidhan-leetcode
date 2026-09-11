@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2293-min-max-game](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2293-min-max-game) |
+| [2574-left-and-right-sum-differences](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2942-find-words-containing-character](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2942-find-words-containing-character) |
 | [3024-type-of-triangle](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3024-type-of-triangle) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -337,4 +338,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2574-left-and-right-sum-differences](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
