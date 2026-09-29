@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2293-min-max-game](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2293-min-max-game) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2574-left-and-right-sum-differences](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2942-find-words-containing-character) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Divide and Conquer
 |  |
