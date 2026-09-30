@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0812-largest-triangle-area) |
 | [0867-transpose-matrix](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0912-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0771-jewels-and-stones) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1512-number-of-good-pairs) |
 | [3668-restore-finishing-order](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3731-find-missing-elements) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0389-find-the-difference) |
 | [0912-sort-an-array](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0912-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3024-type-of-triangle](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3024-type-of-triangle) |
 | [3467-transform-array-by-parity](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3731-find-missing-elements) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0912-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Polygons
 |  |
 | ------- |
