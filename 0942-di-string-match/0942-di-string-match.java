@@ -6,12 +6,10 @@ class Solution {
         int[] perm=new int[n+1];
         for(int i=0;i<n;i++){
             if(s.charAt(i)=='I'){
-                perm[i]=min;
-                min++;
+                perm[i]=min++;    
             }
             else {
-                perm[i]=max;
-                max--;
+                perm[i]=max--;   
             }    
         }
         perm[n]=min;
