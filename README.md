@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0912-sort-an-array) |
+| [0942-di-string-match](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0942-di-string-match) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0392-is-subsequence) |
 | [0832-flipping-an-image](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0942-di-string-match](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0942-di-string-match) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## String
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0771-jewels-and-stones) |
+| [0942-di-string-match](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0942-di-string-match) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0055-jump-game) |
+| [0942-di-string-match](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0942-di-string-match) |
 ## Trie
 |  |
 | ------- |
