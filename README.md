@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0202-happy-number) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0268-missing-number) |
