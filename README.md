@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1920-build-array-from-permutation](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1929-concatenation-of-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1512-number-of-good-pairs) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3668-restore-finishing-order](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3731-find-missing-elements) |
 ## Math
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0383-ransom-note) |
 | [1512-number-of-good-pairs](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1512-number-of-good-pairs) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3467-transform-array-by-parity](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3467-transform-array-by-parity) |
 ## Dynamic Programming
 |  |
