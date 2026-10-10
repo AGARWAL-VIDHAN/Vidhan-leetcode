@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3024-type-of-triangle](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3024-type-of-triangle) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2293-min-max-game](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2293-min-max-game) |
