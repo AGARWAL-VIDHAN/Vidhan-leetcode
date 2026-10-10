@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0912-sort-an-array) |
 | [0942-di-string-match](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0509-fibonacci-number) |
 | [0812-largest-triangle-area](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0812-largest-triangle-area) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
