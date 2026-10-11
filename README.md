@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0912-sort-an-array) |
 | [0942-di-string-match](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0942-di-string-match) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0771-jewels-and-stones) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -424,4 +426,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
