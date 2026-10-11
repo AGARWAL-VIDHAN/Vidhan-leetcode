@@ -1,23 +1,13 @@
 class Solution {
     public int[] sortArrayByParity(int[] nums) {
-        List<Integer> arreven=new ArrayList<>();
-        List<Integer> arrodd=new ArrayList<>();
-        int n=nums.length;
-        int k=n-1;
-        for(int i=0;i<n;i++){
+        int k=0;
+        for(int i=0;i<nums.length;i++){
             if(nums[i]%2==0){
-                arreven.add(nums[i]);
+                int temp=nums[i];
+                nums[i]=nums[k];
+                nums[k]=temp;
+                k++;
             }
-            else{
-                arrodd.add(nums[i]);   
-            }
-        }
-        int i=0;
-        for(int num:arreven){
-            nums[i++]=num;
-        }
-        for(int num:arrodd){
-            nums[i++]=num;
         }
         return nums;
     }
