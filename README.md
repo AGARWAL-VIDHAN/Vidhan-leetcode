@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0283-move-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0485-max-consecutive-ones](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0496-next-greater-element-i) |
 | [0566-reshape-the-matrix](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0682-baseball-game) |
