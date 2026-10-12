@@ -1,25 +1,14 @@
 class Solution {
     public int maxPower(String s) {
-        int count=1;
-        List<Integer> arr=new ArrayList<>();
-        int k=0;
-        while(k<s.length()-1){
-            if(s.charAt(k+1)==s.charAt(k)){
+        int count = 1;
+        int max = 1;
+        for (int i = 1; i < s.length(); i++) {
+            if (s.charAt(i) == s.charAt(i - 1)) {
                 count++;
+            } else {
+                count = 1;
             }
-            else{
-                arr.add(count);
-                count=1;
-            }
-            k++;
-            
-        }
-        arr.add(count);
-        int max=1;
-        for(int i=0;i<arr.size();i++){
-            if(arr.get(i)>max){
-                max=arr.get(i);
-            }
+            max = Math.max(count, max);
         }
         return max;
     }
