@@ -1,66 +1,26 @@
 class Solution {
     public int romanToInt(String s) {
-        int ans = 0;
-        int i = s.length()-1;
-        while (i >= 0) {
-            if (s.charAt(i) == 'I') {
-                ans += 1;
-                i--;
-            } else if (s.charAt(i) == 'V') {
-                if (i>0 && s.charAt(i - 1) == 'I') {
-                    ans += 4;
-                    i -= 2;
-                } else {
-                    ans += 5;
-                    i -= 1;
-                }
-
-            } else if (s.charAt(i) == 'X') {
-                if (i>0 && s.charAt(i - 1) == 'I') {
-                    ans += 9;
-                    i -= 2;
-                } else {
-                    ans += 10;
-                    i -= 1;
-                }
-
-            } else if (s.charAt(i) == 'L') {
-                if (i>0 && s.charAt(i - 1) == 'X') {
-                    ans += 40;
-                    i -= 2;
-                } else {
-                    ans += 50;
-                    i -= 1;
-                }
-            } else if (s.charAt(i) == 'C') {
-                if (i>0 && s.charAt(i - 1) == 'X') {
-                    ans += 90;
-                    i -= 2;
-                } else {
-                    ans += 100;
-                    i -= 1;
-                }
-            } else if (s.charAt(i) == 'D') {
-                if (i>0 && s.charAt(i - 1) == 'C') {
-                    ans += 400;
-                    i -= 2;
-                } else {
-                    ans += 500;
-                    i--;
-                }
-            } else if (s.charAt(i) == 'M') {
-                if (i>0 && s.charAt(i - 1) == 'C') {
-                    ans += 900;
-                    i -= 2;
-                } else {
-                    ans += 1000;
-                    i--;
-                }
+        int answer = 0;
+        int num = 0;
+        int prev = 0;
+        for (int i = s.length() - 1; i >= 0; i--) {
+            char M = s.charAt(i);
+            switch (M) {
+                case 'I' -> num = 1;
+                case 'V' -> num = 5;
+                case 'X' -> num = 10;
+                case 'L' -> num = 50;
+                case 'C' -> num = 100;
+                case 'D' -> num = 500;
+                case 'M' -> num = 1000;
             }
-            if(i<0){
-                break;
+            if (num < prev) {
+                answer -= num;
+            } else {
+                answer += num;
             }
+            prev = num;
         }
-        return ans;
+        return answer;
     }
 }
