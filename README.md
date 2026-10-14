@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0141-linked-list-cycle) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0066-plus-one) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0058-length-of-last-word) |
