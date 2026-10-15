@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0496-next-greater-element-i) |
 | [0566-reshape-the-matrix](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0682-baseball-game) |
+| [0804-unique-morse-code-words](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0804-unique-morse-code-words) |
 | [0812-largest-triangle-area](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0812-largest-triangle-area) |
 | [0832-flipping-an-image](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0867-transpose-matrix) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0804-unique-morse-code-words) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1512-number-of-good-pairs) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0804-unique-morse-code-words) |
 | [0942-di-string-match](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0942-di-string-match) |
 | [1446-consecutive-characters](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1446-consecutive-characters) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
