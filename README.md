@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0812-largest-triangle-area](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0812-largest-triangle-area) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1360-number-of-days-between-two-dates](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1360-number-of-days-between-two-dates) |
 | [1512-number-of-good-pairs](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0804-unique-morse-code-words) |
 | [0942-di-string-match](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0942-di-string-match) |
 | [1108-defanging-an-ip-address](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1360-number-of-days-between-two-dates](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1360-number-of-days-between-two-dates) |
 | [1446-consecutive-characters](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1446-consecutive-characters) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
