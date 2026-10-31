@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0812-largest-triangle-area](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0812-largest-triangle-area) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1360-number-of-days-between-two-dates](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1360-number-of-days-between-two-dates) |
 | [1512-number-of-good-pairs](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1512-number-of-good-pairs) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0804-unique-morse-code-words) |
 | [0942-di-string-match](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0942-di-string-match) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1360-number-of-days-between-two-dates](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1360-number-of-days-between-two-dates) |
 | [1446-consecutive-characters](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1446-consecutive-characters) |
@@ -541,9 +543,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
