@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1952-three-divisors](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1952-three-divisors) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2409-count-days-spent-together](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2409-count-days-spent-together) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1952-three-divisors) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1952-three-divisors](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1952-three-divisors) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -522,4 +525,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
