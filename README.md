@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3813-vowel-consonant-score](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3813-vowel-consonant-score) |
 | [3838-weighted-word-mapping](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3838-weighted-word-mapping) |
 ## String Matching
 |  |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2974-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3701-compute-alternating-sum) |
+| [3813-vowel-consonant-score](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3813-vowel-consonant-score) |
 | [3838-weighted-word-mapping](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Matrix
