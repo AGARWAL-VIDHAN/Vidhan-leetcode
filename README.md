@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2409-count-days-spent-together](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2409-count-days-spent-together) |
+| [2413-smallest-even-multiple](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2413-smallest-even-multiple) |
 | [2544-alternating-digit-sum](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2544-alternating-digit-sum) |
 | [2769-find-the-maximum-achievable-number](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1952-three-divisors) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2413-smallest-even-multiple](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2413-smallest-even-multiple) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
