@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2490-circular-sentence](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2490-circular-sentence) |
 | [2942-find-words-containing-character](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2942-find-words-containing-character) |
+| [3019-number-of-changing-keys](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3019-number-of-changing-keys) |
 | [3110-score-of-a-string](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3813-vowel-consonant-score](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3813-vowel-consonant-score) |
