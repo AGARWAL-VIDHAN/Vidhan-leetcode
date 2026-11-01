@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0812-largest-triangle-area](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0812-largest-triangle-area) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1360-number-of-days-between-two-dates](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1360-number-of-days-between-two-dates) |
 | [1512-number-of-good-pairs](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1512-number-of-good-pairs) |
