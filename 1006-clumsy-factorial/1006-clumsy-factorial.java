@@ -1,15 +1,23 @@
 class Solution {
     public int clumsy(int n) {
-        int ans=0;
-        int sign=1;
-        for(int i=n;i>0;i-=4){
-            int temp=i;
-            if((i-1)>0) temp*=(i-1);
-            if((i-2)>0) temp/=(i-2);
-            ans+=temp*sign;
-            if((i-3)>0) ans+=i-3;
-            sign=-1;
+        if(n==1){
+            return 1;
         }
-        return ans;
+        if(n==2){
+            return 2;
+        }
+        if(n==3){
+            return 6;
+        }
+        if(n==4){
+            return 7;
+        }
+        if(n%4==0){
+            return n+1;
+        }
+        if(n%4==1  || n%4==2){
+            return n+2; 
+        }
+        return n-1;
     }
 }
