@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0812-largest-triangle-area](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0812-largest-triangle-area) |
+| [1006-clumsy-factorial](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1006-clumsy-factorial) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0682-baseball-game) |
+| [1006-clumsy-factorial](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1006-clumsy-factorial) |
 | [2487-remove-nodes-from-linked-list](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0867-transpose-matrix) |
+| [1006-clumsy-factorial](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1006-clumsy-factorial) |
 | [1920-build-array-from-permutation](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
