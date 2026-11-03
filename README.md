@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3701-compute-alternating-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3809-best-reachable-tower](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3809-best-reachable-tower) |
 | [3838-weighted-word-mapping](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3838-weighted-word-mapping) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3516-find-closest-person) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3945-digit-frequency-score](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
