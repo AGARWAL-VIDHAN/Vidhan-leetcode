@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3024-type-of-triangle) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2506-count-pairs-of-similar-strings](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2506-count-pairs-of-similar-strings) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3668-restore-finishing-order](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3731-find-missing-elements) |
@@ -572,4 +574,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
