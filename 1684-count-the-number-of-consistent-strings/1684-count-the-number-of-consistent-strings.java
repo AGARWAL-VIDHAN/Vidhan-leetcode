@@ -1,26 +1,19 @@
 class Solution {
-    public boolean present(String allowed,String word){
-        for(int i=0;i<word.length();i++){
-            boolean found=false;
-            for(int j=0;j<allowed.length();j++){
-                if(word.charAt(i)==allowed.charAt(j)){
-                    found=true;
+    
+    public int countConsistentStrings(String allowed, String[] words) {
+        int cnt=words.length;
+        int[] store=new int[26];
+        for(char ch:allowed.toCharArray()){
+            store[ch-'a']++;
+        }
+        for(String word:words){
+            for(char ch:word.toCharArray()){
+                if(store[ch-'a']<=0){
+                    cnt--;
                     break;
                 }
             }
-            if(!found){
-             return false;
         }
-        }
-        return true;
-    }
-    public int countConsistentStrings(String allowed, String[] words) {
-        int count=0;
-        for(int i=0;i<words.length;i++){
-            if(present(allowed,words[i])){
-                count++;
-            }
-        }
-        return count;
+        return cnt;
     }
 }
