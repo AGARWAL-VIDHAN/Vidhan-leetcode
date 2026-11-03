@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2293-min-max-game](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2293-min-max-game) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2506-count-pairs-of-similar-strings](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2506-count-pairs-of-similar-strings](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3668-restore-finishing-order](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3731-find-missing-elements) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2409-count-days-spent-together) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2490-circular-sentence](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2490-circular-sentence) |
+| [2506-count-pairs-of-similar-strings](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2942-find-words-containing-character](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3019-number-of-changing-keys) |
 | [3110-score-of-a-string](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3110-score-of-a-string) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2506-count-pairs-of-similar-strings](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [3467-transform-array-by-parity](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3467-transform-array-by-parity) |
 ## Dynamic Programming
 |  |
@@ -310,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0832-flipping-an-image) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2506-count-pairs-of-similar-strings](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 ## Sorting
 |  |
 | ------- |
