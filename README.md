@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0496-next-greater-element-i) |
 | [0566-reshape-the-matrix](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0682-baseball-game) |
+| [0713-subarray-product-less-than-k](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0804-unique-morse-code-words](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0804-unique-morse-code-words) |
 | [0812-largest-triangle-area](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0812-largest-triangle-area) |
 | [0832-flipping-an-image](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0832-flipping-an-image) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0713-subarray-product-less-than-k](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Stack
 |  |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0713-subarray-product-less-than-k](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1652-defuse-the-bomb](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Linked List
@@ -502,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1480-running-sum-of-1d-array](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
