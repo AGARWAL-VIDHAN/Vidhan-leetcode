@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2506-count-pairs-of-similar-strings](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3668-restore-finishing-order](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3731-find-missing-elements) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2942-find-words-containing-character](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3019-number-of-changing-keys) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3813-vowel-consonant-score](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3813-vowel-consonant-score) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1652-defuse-the-bomb](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Linked List
 |  |
 | ------- |
