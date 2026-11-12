@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3024-type-of-triangle) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3285-find-indices-of-stable-mountains](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3285-find-indices-of-stable-mountains) |
