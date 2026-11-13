@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2942-find-words-containing-character) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2506-count-pairs-of-similar-strings](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2506-count-pairs-of-similar-strings) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1652-defuse-the-bomb](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Linked List
 |  |
