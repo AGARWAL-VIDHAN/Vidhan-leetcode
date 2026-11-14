@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2506-count-pairs-of-similar-strings](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1816-truncate-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2409-count-days-spent-together) |
