@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2062-count-vowel-substrings-of-a-string](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2409-count-days-spent-together](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2409-count-days-spent-together) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2490-circular-sentence](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2490-circular-sentence) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1652-defuse-the-bomb](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Linked List
