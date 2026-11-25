@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1695-maximum-erasure-value](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1695-maximum-erasure-value) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1816-truncate-sentence](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1816-truncate-sentence) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1695-maximum-erasure-value](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1695-maximum-erasure-value) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1652-defuse-the-bomb](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1652-defuse-the-bomb) |
+| [1695-maximum-erasure-value](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1695-maximum-erasure-value) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
