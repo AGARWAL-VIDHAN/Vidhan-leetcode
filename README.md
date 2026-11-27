@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0496-next-greater-element-i) |
 | [0566-reshape-the-matrix](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0566-reshape-the-matrix) |
+| [0594-longest-harmonious-subsequence](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0682-baseball-game](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0804-unique-morse-code-words](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0804-unique-morse-code-words) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0496-next-greater-element-i) |
+| [0594-longest-harmonious-subsequence](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0771-jewels-and-stones](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0804-unique-morse-code-words) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0383-ransom-note) |
+| [0594-longest-harmonious-subsequence](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1512-number-of-good-pairs](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0389-find-the-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -495,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1652-defuse-the-bomb](https://github.com/AGARWAL-VIDHAN/Vidhan-leetcode/tree/master/1652-defuse-the-bomb) |
